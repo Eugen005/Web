@@ -1,0 +1,26 @@
+/* stilurile CSS */
+ul {
+        width: 100%;
+        height: 80px;
+        list-style-type: none;
+        margin:0px;
+        padding: 0px;
+        overflow: hidden;
+        background-color: #e44242;
+      }
+      li {
+        display: inline-block;
+        margin-right: 10px;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 29px 16px;
+        text-decoration: none;
+        vertical-align:top ;
+        margin-top: 0px;
+      }
+      li a:hover {
+        background-color: #21098ab0;
+      }
